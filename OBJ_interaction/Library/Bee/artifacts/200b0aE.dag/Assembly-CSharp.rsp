@@ -353,6 +353,7 @@
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.47f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Mini Simple Characters Skeleton Demo/Readme/Scripts/Readme.cs"
 "Assets/Scripts/CameraFollow.cs"
+"Assets/Scripts/ChasePlayer.cs"
 "Assets/Scripts/PlayerMovement3D.cs"
 "Assets/smoky_fox/Scripts/CharacterCostume.cs"
 "Assets/smoky_fox/Scripts/Costume.cs"
